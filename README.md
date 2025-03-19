@@ -39,13 +39,13 @@
 
 ## Acknowledgements
 Give credit here.
-- TThis project was inspired by the need for early melanoma detection using deep learning techniques.
+- This project was inspired by the need for early melanoma detection using deep learning techniques.
 - The dataset used in this project was sourced from the International Skin Imaging Collaboration (ISIC).
 - Special thanks to the creators of TensorFlow and Keras for providing robust tools for deep learning
 
 
 ## Contact
-Created by [@kamit1983] - feel free to contact me!
+Created by @kamit1983 - feel free to contact me!
 
 
 <!-- Optional -->
